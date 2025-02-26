@@ -1,0 +1,1 @@
+HTTP client written in C that sends GET, POST, and DELETE requests while handling authentication and session state. The Parson library is used for JSON parsing and manages cookies and tokens for authentication. It also implements command parsing, input validation, and error handling for reliable client-server interaction.
